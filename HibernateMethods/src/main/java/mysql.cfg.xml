@@ -8,7 +8,7 @@
 	<property name="hibernate.connection.driver_class">com.mysql.jdbc.Driver</property>
 	<property name="hibernate.connection.url">jdbc:mysql://localhost/rud</property>
 	<property name="hibernate.connection.username">root</property>
-	<property name="hibernate.connection.password">Mysql@007</property>
+	<property name="hibernate.connection.password">Mysql</property>
 	      
       
       <property name="hibernate.hbm2ddl.auto">update</property>
